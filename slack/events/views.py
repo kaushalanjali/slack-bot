@@ -258,7 +258,7 @@ class Events(APIView):
                                         },
                                         "value": "click_me_123",
                                         "action_id": "button-action",
-                                        "url": "https://dis-support.thalesgroup.com/nav_to.do?uri=%2Fcom.glideapp.servicecatalog_cat_item_view.do%3Fv%3D1%26sysparm_id%3D9d438d29db4067005a599785ca961973%26sysparm_link_parent%3Db3328925db4067005a599785ca9619c8%26sysparm_catalog%3D42226d4edbdcdf0084dd79e9bf961978%26sysparm_catalog_view%3Dcatalog_Data_Centers_Operations_Catalog"
+                                        "url": "https://www.google.com/"
                                     }
                                 },
                                 {
@@ -299,7 +299,7 @@ class Events(APIView):
                                         },
                                         "value": "click_me_123",
                                         "action_id": "button-action",
-                                        "url": "https://dis-support.thalesgroup.com/nav_to.do?uri=%2Fcom.glideapp.servicecatalog_cat_item_view.do%3Fv%3D1%26sysparm_id%3D0e840a51db710c10f68fd1274896192b%26sysparm_link_parent%3Db3328925db4067005a599785ca9619c8%26sysparm_catalog%3D42226d4edbdcdf0084dd79e9bf961978%26sysparm_catalog_view%3Dcatalog_Data_Centers_Operations_Catalog"
+                                        "url": "https://www.google.com/"
                                     }
                                 },
                                 {
@@ -340,7 +340,7 @@ class Events(APIView):
                                         },
                                         "value": "click_me_123",
                                         "action_id": "button-action",
-                                        "url": "https://dis-support.thalesgroup.com/nav_to.do?uri=%2Fcom.glideapp.servicecatalog_cat_item_view.do%3Fv%3D1%26sysparm_id%3D14569155dbbdc810f68fd1274896196b%26sysparm_link_parent%3Db3328925db4067005a599785ca9619c8%26sysparm_catalog%3D42226d4edbdcdf0084dd79e9bf961978%26sysparm_catalog_view%3Dcatalog_Data_Centers_Operations_Catalog"
+                                        "url": "https://www.google.com/"
                                     }
                                 },
                                 {
@@ -395,8 +395,7 @@ class Events(APIView):
                                                     },
                                                     "value": "click_me_123",
                                                     "action_id": "button-action",
-                                                    "url": "https://dis-support.thalesgroup.com/nav_to.do?uri=/com.glideapp.servicecatalog_cat_item_view.do?v=1&sysparm_id=f27899b2db7de70027399334ca961912&sysparm_link_parent=c470303adbf9e70027399334ca9619fd&sysparm_catalog=42226d4edbdcdf0084dd79e9bf961978&sysparm_catalog_view=catalog_Data_Centers_Operations_Catalog"
-                                                }
+                                                    "url": "https://www.google.com/" }
                                             },
                                             {
                                                 "type": "divider"
